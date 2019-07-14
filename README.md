@@ -1,2 +1,2 @@
 # linux-config
-linux configuration
+linux relevant configuration record and file
